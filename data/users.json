@@ -1,0 +1,58 @@
+[
+  {
+    "id": "admin_1",
+    "name": "Admin",
+    "email": "admin@vault.local",
+    "role": "admin",
+    "passwordHash": "699d292772e99b121dd7c1769fe31e5b:71a24e37f70a25ec0275db1beab4701072a415ca26e576a8d7eeb2e031994eeb4fa3a75d86ed056fe6f6f8f89e8628b68db9eb8e62675ae45d2cd77e9db2d8a7",
+    "createdAt": "2026-03-12T00:00:00.000Z",
+    "avatar": "https://cdn.discordapp.com/attachments/1339436496574349404/1481901716516634664/standard_2.gif?ex=6a056b85&is=6a041a05&hm=5bcbfa29a61798f9bcea3c56be0a570093936706e004c47ca7dbc9afd1e2f8b9&",
+    "isActive": true,
+    "bio": "",
+    "statusText": "",
+    "avatarRingColor": "#1cff8a",
+    "disableAt": null
+  },
+  {
+    "id": "user_1",
+    "name": "Fxzz User",
+    "email": "h@fxzz.com",
+    "role": "user",
+    "passwordHash": "97f477ee0bec7a0dfd851e469c059a6f:7f23c433e51c0a27e73173b00d232e53878acd8cb7747db02102f07f7fd62e3ebfeb930005f4dc82abd33dce689fd4f0d09afb276f6ac9dc5f1bf91f4e8a852f",
+    "createdAt": "2026-03-12T00:00:00.000Z",
+    "avatar": "https://cdn.discordapp.com/attachments/1339436496574349404/1481901716516634664/standard_2.gif?ex=6a056b85&is=6a041a05&hm=5bcbfa29a61798f9bcea3c56be0a570093936706e004c47ca7dbc9afd1e2f8b9&",
+    "isActive": true,
+    "bio": "",
+    "statusText": "",
+    "avatarRingColor": "#1cff8a",
+    "disableAt": null
+  },
+  {
+    "id": "RYYg6RKBz_k8wr8weOS7A",
+    "name": "Fxzz User",
+    "email": "h@gmail.com",
+    "role": "user",
+    "avatar": "https://cdn.discordapp.com/attachments/1339436496574349404/1481901716516634664/standard_2.gif?ex=6a056b85&is=6a041a05&hm=5bcbfa29a61798f9bcea3c56be0a570093936706e004c47ca7dbc9afd1e2f8b9&",
+    "bio": "",
+    "statusText": "",
+    "avatarRingColor": "#1cff8a",
+    "disableAt": null,
+    "isActive": true,
+    "passwordHash": "3f95498ea4940e7b0cf4d102e56c0cd0:361d4c194d7c5dec2b0eaabcff85d30f74af7752fdd588f5a8d9277ec444cb40d348361b35d178a0127519db4766fa459fa8161da5eaa9d65355fc6d83e814cc",
+    "createdAt": "2026-05-10T05:37:13.611Z"
+  },
+  {
+    "id": "zX4sJeX4V5aBXyBIAp5Pg",
+    "name": "Fxzz User",
+    "email": "h@h.com",
+    "role": "user",
+    "avatar": "https://cdn.discordapp.com/attachments/1339436496574349404/1481901716516634664/standard_2.gif?ex=69b6fa45&is=69b5a8c5&hm=7162fbee56b8100db50d3ee7840f4e4b34a167e6299ef10b01eaae3900a1510d&",
+    "bio": "",
+    "statusText": "Vip",
+    "avatarRingColor": "#1cff8a",
+    "disableAt": "2026-05-13T09:24:07.974Z",
+    "isActive": false,
+    "passwordHash": "363bdbc696a60bb471164a18f2a223c4:3a0ae79421f303cee9e84ac7a9536e6502f9ff570170800b08c22f0203d87e30f347634587b0e3ddc6578e97e6495e354a232c788d15e6e9d3e03e2d91795958",
+    "createdAt": "2026-05-13T09:22:32.085Z"
+  }
+]
