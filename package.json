@@ -4,6 +4,9 @@
   "description": "Steam Vault Green - private Steam accounts portal",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": ">=22.0.0 <23.0.0"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
