@@ -1,5 +1,77 @@
 [
   {
+    "id": "sx19fszXgcjdrBiuHa4bu",
+    "createdAt": "2026-05-15T10:40:41.054Z",
+    "action": "USER_AUTO_DISABLED",
+    "actorEmail": "system",
+    "actorRole": "system",
+    "description": "تم تعطيل الحساب تلقائيًا عند انتهاء المدة: h@h.com"
+  },
+  {
+    "id": "ctx3Ci8wBtuJnKh7uN54e",
+    "createdAt": "2026-05-15T10:40:41.040Z",
+    "action": "USER_ENABLED",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تفعيل المستخدم: h@h.com"
+  },
+  {
+    "id": "juMmUQXv2LC-Iii2Mu6G4",
+    "createdAt": "2026-05-15T10:40:30.741Z",
+    "action": "LOGIN_SUCCESS",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تسجيل الدخول بنجاح من 127.0.0.1 باستخدام Desktop • Edge • Windows"
+  },
+  {
+    "id": "uv_yarpqiz8xBMWy6Njm4",
+    "createdAt": "2026-05-15T10:40:24.527Z",
+    "action": "LOGOUT",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تسجيل الخروج"
+  },
+  {
+    "id": "2igmowJbRUl_z-Zx56Ie5",
+    "createdAt": "2026-05-15T10:40:16.359Z",
+    "action": "USER_AUTO_DISABLED",
+    "actorEmail": "system",
+    "actorRole": "system",
+    "description": "تم تعطيل الحساب تلقائيًا عند انتهاء المدة: h@h.com"
+  },
+  {
+    "id": "-0CfC0iaj-U2NoSiXiF_t",
+    "createdAt": "2026-05-15T10:40:16.345Z",
+    "action": "USER_ENABLED",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تفعيل المستخدم: h@h.com"
+  },
+  {
+    "id": "AJ42Um7b5oBX6jYWfLUbE",
+    "createdAt": "2026-05-15T10:40:06.888Z",
+    "action": "USER_UPDATED",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تحديث المستخدم: h@h.com"
+  },
+  {
+    "id": "Bx9Y17mYRdSjFX7bZQ2eO",
+    "createdAt": "2026-05-15T10:39:11.555Z",
+    "action": "PROFILE_UPDATED",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تحديث الملف الشخصي"
+  },
+  {
+    "id": "S57LEf0XBN1LaTC5a4d70",
+    "createdAt": "2026-05-15T10:38:06.364Z",
+    "action": "LOGIN_SUCCESS",
+    "actorEmail": "admin@vault.local",
+    "actorRole": "admin",
+    "description": "تم تسجيل الدخول بنجاح من 127.0.0.1 باستخدام Desktop • Edge • Windows"
+  },
+  {
     "id": "qgL7kkay0NUvwLL4iu__U",
     "createdAt": "2026-05-13T10:20:56.264Z",
     "action": "LOGOUT",
